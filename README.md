@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kaio</h1>
+<h1 align="center">👋 Hi there, I'm Kaio Giorgetti</h1>
 <h3 align="center">
   👨‍💻 Front-end Developer & Designer UI/UX <br>
 </h3>
